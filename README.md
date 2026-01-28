@@ -15,6 +15,4 @@ It includes data preparation, KPI analysis, and built-in time series forecasting
 - Power BI
 - Python (ETL)
 - CSV datasets
-
-
-
+<img width="1471" height="989" alt="image" src="https://github.com/user-attachments/assets/034b0c6e-f9d3-49a5-a372-b7f83448599a" />
